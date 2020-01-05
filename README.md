@@ -2,6 +2,8 @@
 
 A plugin that helps you use android moveTaskToBack.
 
+[![Pub Version](https://img.shields.io/pub/v/move_task_to_back)](https://pub.flutter-io.cn/packages/move_task_to_back)
+
 ## Getting Started
 
 ### get plugin

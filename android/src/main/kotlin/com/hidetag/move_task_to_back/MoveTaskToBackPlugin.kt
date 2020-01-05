@@ -45,6 +45,7 @@ class MoveTaskToBackPlugin : FlutterPlugin, ActivityAware {
     }
 
     override fun onDetachedFromActivity() {
+        handler.release()
     }
 
     override fun onReattachedToActivityForConfigChanges(p0: ActivityPluginBinding) {
