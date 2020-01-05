@@ -1,0 +1,21 @@
+name: move_task_to_back
+description: A plugin that helps you use android moveTaskToBack.
+version: 0.0.1
+author: hidetag
+homepage: https://github.com/hidetag/move_task_to_back
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    androidPackage: com.hidetag.move_task_to_back
+    pluginClass: MoveTaskToBackPlugin
