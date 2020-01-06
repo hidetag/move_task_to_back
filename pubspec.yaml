@@ -1,6 +1,6 @@
 name: move_task_to_back
 description: A plugin that helps you use android moveTaskToBack.
-version: 0.0.2
+version: 0.0.3
 author: hidetag
 homepage: https://github.com/hidetag/move_task_to_back
 
